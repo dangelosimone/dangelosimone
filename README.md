@@ -23,7 +23,7 @@
   <a href="mailto:dangelosimone29@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-dangelosimone29%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="https://www.linkedin.com/in/simone-d-angelo-78294630b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -85,10 +85,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangelosimone&show_icons=true&theme=tokyonight&count_private=true" alt="Simone's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
