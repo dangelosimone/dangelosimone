@@ -95,14 +95,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dangelosimone&show_icons=true&theme=tokyonight&count_private=true" alt="Simone's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
