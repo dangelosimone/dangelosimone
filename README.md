@@ -97,7 +97,4 @@
   <!-- Arduino -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;
 </p>
-
 ---
-### 📈 My Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=vision-friendly-dark)
