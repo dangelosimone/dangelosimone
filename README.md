@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Focus"/>
   <img src="https://img.shields.io/badge/Status-Writing%20Thesis-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="Status"/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=vision-friendly-dark)
 </p>
+<p>![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=vision-friendly-dark)</p>
+
 
 ---
 
