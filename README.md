@@ -95,5 +95,5 @@
 </p>
 
 ---
-#### 📈 My Most Used Languages
+### 📈 My Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=vision-friendly-dark)
