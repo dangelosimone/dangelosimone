@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Writing%20Thesis-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="Status"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=vision-friendly-dark" alt="My Most Used Languages" />
@@ -14,7 +13,7 @@
 
 ### 👤 About Me
 
-- 🔭 I’m currently working on: **My Master's Thesis on Penetration Testing** 🛡️
+- 🔭 I’m currently working on: Studying for my Penetration Testing & Ethical Hacking exam 🛡️
 - 🌱 I’m currently learning: **Reverse Engineering, Penetration Testing, and Cryptography**
 - 💬 Ask me about: **Cybersecurity, Linux systems, and Secure Coding**
 - ⚡ Fun fact: *Powered by coffee and secure protocols* ☕🔒
