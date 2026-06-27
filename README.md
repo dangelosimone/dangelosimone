@@ -13,7 +13,7 @@
 
 ### 👤 About Me
 
-- 🔭 I’m currently working on: Studying for my Penetration Testing & Ethical Hacking exam 🛡️
+- 🔭 I’m currently working on: **Studying for my Penetration Testing & Ethical Hacking exam**
 - 🌱 I’m currently learning: **Reverse Engineering, Penetration Testing, and Cryptography**
 - 💬 Ask me about: **Cybersecurity, Linux systems, and Secure Coding**
 - ⚡ Fun fact: *Powered by coffee and secure protocols* ☕🔒
