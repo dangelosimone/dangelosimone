@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Focus"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=vision-friendly-dark" alt="My Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dangelosimone&layout=compact&theme=vision-friendly-dark" alt="My Most Used Languages" />
 </p>
 
 
